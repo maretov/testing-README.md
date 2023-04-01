@@ -2,9 +2,13 @@
 ### Codeclimate status: [![Maintainability](https://api.codeclimate.com/v1/badges/f33d4e0a4673df93a057/maintainability)](https://codeclimate.com/github/maretov/frontend-project-44/maintainability)
 
 # The first educational project "Brain-games"
-This repository is the first project in the [Hexlet](hexlet.io) online programming school. It implements five math console games that run on Linux in a bash.
+This repository is the first project in the [Hexlet](hexlet.io) online programming school. It implements 5 math console games that run on Linux in a bash.
 
-
+## Requirements:
+- a computer
+- os linux
+- nodejs version 13.2.0 or higher
+- utilite "make" any version 
 
 ### How to install project:
 
