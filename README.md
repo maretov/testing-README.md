@@ -23,7 +23,11 @@ This repository is the first project in the [Hexlet](hexlet.io) online programmi
 ```
   npm link
 ```
-
+## Test and game
+Use this command to check if the games are running:
+```
+brain-games
+```
 [![asciicast](https://asciinema.org/a/VOQoYvnW8uDKerv18HRpEaauN.svg)](https://asciinema.org/a/VOQoYvnW8uDKerv18HRpEaauN)
 
 How to work game brain-even:
