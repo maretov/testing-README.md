@@ -15,11 +15,15 @@ This repository is the first project in the [Hexlet](hexlet.io) online programmi
 ```
   git clone https://github.com/maretov/frontend-project-44.git
 ```
-2) Install dependencies:
+2) Go to directory "frontend-project-44"
+```
+cd ./frontend-project-44/
+```
+3) Install dependencies:
 ```
   make install
 ```
-3) Install package as local in your OS:
+4) Install package as local in your OS:
 ```
   npm link
 ```
