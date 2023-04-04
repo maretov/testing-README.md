@@ -17,7 +17,7 @@ This repository is the first project in the [Hexlet](hexlet.io) online programmi
 ```
 2) Go to directory "frontend-project-44"
 ```
-cd ./frontend-project-44/
+  cd ./frontend-project-44/
 ```
 3) Install dependencies:
 ```
